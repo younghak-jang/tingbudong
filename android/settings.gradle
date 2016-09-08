@@ -1,0 +1,3 @@
+rootProject.name = 'tingbudong'
+
+include ':app'
